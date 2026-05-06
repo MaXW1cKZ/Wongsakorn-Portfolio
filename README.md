@@ -24,7 +24,7 @@ A showcase of my projects covering Business Analysis, System Design, and Full-St
 > **System Architecture:** การออกแบบระบบแบบ Distributed Processing โดยแบ่งการทำงานระหว่าง Client (Face Cropping) และ Server (AI Processing)
 
 *(ใส่รูปภาพที่ 2: Use Case Diagram)*
-![Use Case Diagram](./images/smart-attendance-usecase.png)
+<img width="510" height="594" alt="use_case_diagram" src="https://github.com/user-attachments/assets/f2999aa7-5a5f-401e-86fe-a0c13b58b2a6" />
 > **Use Case Diagram:** โครงสร้างการทำงานและสิทธิ์การเข้าถึงของผู้ใช้งานทั้ง 3 กลุ่ม (Student, Teacher, Admin)
 
 *(ใส่รูปภาพที่ 3: User Interface)*
