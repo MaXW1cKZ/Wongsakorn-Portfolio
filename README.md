@@ -30,3 +30,31 @@ A showcase of my projects covering Business Analysis, System Design, and Full-St
 *(ใส่รูปภาพที่ 3: User Interface)*
 ![User Interface](./images/smart-attendance-ui.png)
 > **User Interface:** หน้าจอแสดงผลการเช็คชื่อแบบ Real-time และ Dashboard สรุปสถิติ
+<br>
+
+## 📌 2. Learning Management System (LMS)
+**ระบบบริหารจัดการการเรียนรู้ (IT Project Management)**
+
+**🎯 Problem & Solution (ปัญหาและทางแก้):**
+การพัฒนาระบบที่มีสเกลใหญ่มักเจอปัญหาความต้องการ (Requirement) บานปลายและส่งมอบงานไม่ทันเวลา โครงการนี้จึงมุ่งเน้นที่ **การบริหารจัดการโครงการ (Project Management)** อย่างเป็นระบบตามมาตรฐาน PMBOK โดยเริ่มตั้งแต่การเก็บ Requirement ที่ชัดเจน, การวิเคราะห์ผู้มีส่วนได้ส่วนเสีย, ไปจนถึงการแตกย่อยสโคปงานเพื่อให้ทีม Developer ทำงานได้จริง
+
+**🧑‍💻 My Roles (บทบาทหน้าที่):**
+* **Project Manager:** บริหารจัดการโครงการแบบ End-to-End, จัดทำโครงสร้างการแบ่งงาน (Work Breakdown Structure - WBS) และประเมินความเสี่ยงของโครงการ
+* **Business Analyst:** รวบรวมและวิเคราะห์ความต้องการจาก Stakeholders เพื่อนำมาจัดทำเอกสาร Business Requirements Document (BRD) 
+* **Stakeholder Management:** วิเคราะห์และจัดทำตารางประเมินผู้มีส่วนได้ส่วนเสีย เพื่อวางแผนการสื่อสารให้ตรงจุด
+
+**📈 Business Value (คุณค่าทางธุรกิจ):**
+* ควบคุมขอบเขตโครงการ (Scope) และงบประมาณให้อยู่ในแผนที่วางไว้
+* ลดความผิดพลาดในการสื่อสารระหว่างฝั่ง Business และ ฝั่ง Developer
+* ส่งมอบซอฟต์แวร์ที่ตอบโจทย์ความต้องการของผู้ใช้งานได้จริง
+
+---
+### 🖼️ Management & Analysis Highlights
+
+*(ใส่รูปภาพที่ 1: Work Breakdown Structure)*
+![Work Breakdown Structure](./images/lms-wbs.png)
+> **Work Breakdown Structure (WBS):** การแตกย่อยขอบเขตงานทั้งหมดของโครงการ เพื่อใช้ในการวางแผนเวลาและแจกจ่ายงานให้ทีมงาน
+
+*(ใส่รูปภาพที่ 2: Stakeholder Matrix / BRD)*
+![Stakeholder & Requirement](./images/lms-stakeholder.png)
+> **Stakeholder Management & Requirements:** การวิเคราะห์ผู้มีส่วนได้ส่วนเสีย และการกำหนดความต้องการของระบบอย่างเป็นโครงสร้าง
