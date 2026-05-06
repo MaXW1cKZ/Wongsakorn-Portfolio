@@ -20,7 +20,7 @@ A showcase of my projects covering Business Analysis, System Design, and Full-St
 ### 🖼️ System & Design Highlights
 
 *(ใส่รูปภาพที่ 1: System Architecture)*
-![System Architecture](./images/smart-attendance-architecture.png)
+<img width="433" height="801" alt="Architecture" src="https://github.com/user-attachments/assets/b486e751-897b-46d0-9cff-7096570c1b90" />
 > **System Architecture:** การออกแบบระบบแบบ Distributed Processing โดยแบ่งการทำงานระหว่าง Client (Face Cropping) และ Server (AI Processing)
 
 *(ใส่รูปภาพที่ 2: Use Case Diagram)*
