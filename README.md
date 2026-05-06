@@ -58,3 +58,51 @@ A showcase of my projects covering Business Analysis, System Design, and Full-St
 *(ใส่รูปภาพที่ 2: Stakeholder Matrix / BRD)*
 ![Stakeholder & Requirement](./images/lms-stakeholder.png)
 > **Stakeholder Management & Requirements:** การวิเคราะห์ผู้มีส่วนได้ส่วนเสีย และการกำหนดความต้องการของระบบอย่างเป็นโครงสร้าง
+<br>
+
+## 📌 3. ExpertConnect Platform
+**แพลตฟอร์มสื่อกลางถาม-ตอบปัญหาพร้อมระบบ Escrow (Cloud Application)**
+
+**🎯 Problem & Solution (ปัญหาและทางแก้):**
+การจ้างงานหรือปรึกษาผู้เชี่ยวชาญออนไลน์มักมีความเสี่ยงเรื่องการฉ้อโกง (เบี้ยวงาน/ไม่จ่ายเงิน) ระบบนี้จึงถูกออกแบบมาให้มี **Escrow System (ตัวกลางถือเงิน)** เพื่อสร้างความมั่นใจให้ทั้งสองฝ่าย พร้อมทั้งออกแบบสถาปัตยกรรมบน Cloud ให้รองรับการขยายตัวของผู้ใช้งาน (Scalability) ในอนาคตได้อย่างมีประสิทธิภาพ
+
+**🧑‍💻 My Roles (บทบาทหน้าที่):**
+* **System Architecture Design:** ออกแบบโครงสร้างพื้นฐานระบบ (Infrastructure) บน AWS โดยใช้สถาปัตยกรรม Microservices (ECS Fargate, ALB, RDS, S3)
+* **Business Logic & Workflow:** ออกแบบเส้นทางการใช้งาน (User Journey) และการไหลของเงินในระบบตั้งแต่เริ่มตั้งคำถามจนถึงการจ่ายเงินให้ผู้เชี่ยวชาญ
+* **CI/CD Pipeline:** วางระบบการทำ Continuous Integration/Continuous Deployment ผ่าน GitHub Actions เพื่อความรวดเร็วในการส่งมอบฟีเจอร์
+
+**📈 Business Value (คุณค่าทางธุรกิจ):**
+* สร้างความน่าเชื่อถือให้กับแพลตฟอร์มและลดข้อพิพาทระหว่างผู้ใช้งาน
+* ระบบมีความเสถียรและสามารถปรับขนาด (Scale) เพื่อรองรับ Traffic ได้อัตโนมัติ
+
+---
+### 🖼️ Architecture & Flow Highlights
+
+*(ใส่รูปภาพที่ 1: AWS Architecture)*
+![System Architecture](./images/expertconnect-architecture.png)
+> **Cloud Architecture (AWS):** โครงสร้างระบบที่ออกแบบเพื่อรองรับความปลอดภัย (Security) และการขยายตัว (Scalability)
+
+*(ใส่รูปภาพที่ 2: Business Workflow)*
+![Business Workflow](./images/expertconnect-flow.png)
+> **Business Workflow:** การออกแบบ Flow การทำงานของระบบสื่อกลาง (Escrow System)
+
+<br>
+<hr>
+<br>
+
+## 📌 4. Hotel Booking System
+**ระบบจัดการฐานข้อมูลสำหรับการจองห้องพักโรงแรม (Database Design)**
+
+**🎯 Problem & Solution (ปัญหาและทางแก้):**
+ธุรกิจโรงแรมมีข้อมูลที่ต้องจัดการจำนวนมากและซับซ้อน ทั้งข้อมูลลูกค้า, ห้องพัก, การชำระเงิน และสถานะการจอง โครงการนี้จึงมุ่งเน้นไปที่การวิเคราะห์และออกแบบฐานข้อมูลเชิงสัมพันธ์ (Relational Database) เพื่อให้ระบบจัดการข้อมูลได้อย่างถูกต้อง รวดเร็ว และไม่ซ้ำซ้อน
+
+**🧑‍💻 My Roles (บทบาทหน้าที่):**
+* **Database Design:** วิเคราะห์กระบวนการทางธุรกิจ (Business Rules) ของโรงแรม และนำมาออกแบบ Entity-Relationship Diagram (ERD)
+* **Data Standardization:** จัดทำพจนานุกรมข้อมูล (Data Dictionary) เพื่อส่งต่อโครงสร้างข้อมูลที่เป็นมาตรฐานให้กับทีม Developer ใช้ในการพัฒนา
+
+---
+### 🖼️ Database Design Highlight
+
+*(ใส่รูปภาพที่ 1: ER Diagram)*
+![ER Diagram](./images/hotel-erd.png)
+> **Entity-Relationship Diagram (ERD):** โครงสร้างฐานข้อมูลที่แสดงความสัมพันธ์ของระบบการจองห้องพัก (รองรับ 3 บทบาท: Admin, Customer, Receptionist)
