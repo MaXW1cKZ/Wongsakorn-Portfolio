@@ -8,10 +8,7 @@ IT Graduate from KMITL
 ---
 
 ## About Me
-IT graduate specializing in Business Analysis and IT Consulting.
-Experienced in requirements gathering, stakeholder analysis, 
-system design, and cross-functional collaboration across 
-academic and real-world projects.
+IT graduate interested in Business Analysis and IT Consulting and System Analyst, with hands-on internship experience in feature development, workflow analysis, and cross-functional collaboration. Experienced in supporting system implementation, API testing, and UX/UI design while working with technical teams to improve user workflows and deliver practical system solutions.
 
 ---
 
