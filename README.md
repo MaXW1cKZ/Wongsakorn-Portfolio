@@ -3,7 +3,7 @@
 IT Graduate from KMITL
 
 📧 wongsakorn.pawong@gmail.com | 📞 098-819-1944
-🔗 [Notion Portfolio](link) | [GitHub](https://github.com/MaXW1cKZ)
+🔗 [Notion Portfolio](https://www.notion.so/Wongsakorn-Pawong-Portfolio-36415b810b24808b8439cb1c5facba8b?source=copy_link) | [GitHub](https://github.com/MaXW1cKZ)
 
 ---
 
